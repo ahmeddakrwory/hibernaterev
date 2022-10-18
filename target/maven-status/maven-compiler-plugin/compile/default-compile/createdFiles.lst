@@ -1,0 +1,9 @@
+test\hiber\nate\entity\HibernateConfigclass.class
+test\hiber\nate\entity\Hibernateutils.class
+test\hiber\nate\entity\Job.class
+test\hiber\nate\entity\Location.class
+test\hiber\nate\entity\Department.class
+test\hiber\nate\entity\Country.class
+test\hiber\nate\entity\Employee.class
+test\hiber\nate\entity\Region.class
+test\hiber\nate\entity\JobHistory.class
