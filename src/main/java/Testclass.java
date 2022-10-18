@@ -37,6 +37,7 @@ static List<Object[]> excuesql(String quiry,List<String> param){
 	 Query      query = testclass.session.createSQLQuery(quiry+param);
 	            // param = and id=100 and name = ahmed
      List<Object[]> rows = query.list();
+   
      System.out.println(rows.size());
      for (Object[] object : rows) {
 		System.out.println(object[0]+" "+object[1]);	
